@@ -20,7 +20,7 @@ public class TheMain {
             do {
                 System.out.println("");
                 System.out.println("1: suma de polinomios");
-                System.out.println("2: multipliacion de polinomios de polinomios");
+                System.out.println("2: multipliacion de polinomios");
                 System.out.println("3: si desea salir del programa");
                 System.out.println("");
                 System.out.print("eliga la opcion que desea realizar: ");
