@@ -8,6 +8,10 @@ public class Nodo {
         next = null;
         this.term = a;
     }
+    public Nodo(Termino a,Nodo n){
+        this.term = a;
+        next= n;
+    }
 
     public Termino getTermino(){
         return term;

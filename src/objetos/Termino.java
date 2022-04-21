@@ -10,6 +10,10 @@ public class Termino {
     }
 
     public Termino(int coef, int expo){
+        setTermino(coef,expo);
+    }
+
+    public void setTermino(int coef,int expo){
         this.coef=coef;
         this.expo=expo;
     }
